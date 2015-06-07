@@ -1,0 +1,4 @@
+this is a Text file
+it has the extension .txt
+
+there are four new lines characters in it
